@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: yusufso's cat classifier
+description: Simple example of client interfacing with a computer vision API, gradio, hosting my model on huggingfaces.
+
+author:
+  name: Yusuf Hussain
