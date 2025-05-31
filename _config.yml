@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: what_breed_of_cat
+description: Simple JS interfacing with my fastai model hosted on huggingface
+
+author:
+  name: Yusuf Hussain
